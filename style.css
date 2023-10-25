@@ -1,0 +1,45 @@
+#box{
+margin: auto;
+width: 50%;
+}
+#box h1{
+text-align:center;
+}
+#logo {
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 10%;
+}
+#gradient{
+    text-align: auto;
+    color: green;
+    background-image: linear-gradient(180deg, #fff278ce, white);
+    padding: 3px;
+
+}
+header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+header img{
+    margin: auto;
+    width: 15%;
+}
+#link{
+    border-left: 2.5px solid chocolate;
+       
+}
+#box img{
+height: auto;
+width: 100%;
+
+}
+#h3{
+   position: left; 
+}
+#line{
+border-top: 1px solid aquamarine;
+}
